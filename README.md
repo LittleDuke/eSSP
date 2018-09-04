@@ -15,7 +15,7 @@ Over PIP :
 
 or for the latest version ( maybe unstable )
 
-`pip install git+https://github.com/Minege/eSSP`
+`pip install git+https://github.com/LittleDuke/eSSP`
 
 
 ## Functionalities
